@@ -37,7 +37,7 @@ Siga esta guía de inicio rápido para crear una aplicación de Xamarin.Forms mu
 
 ## <a name="quickstart-perform-navigation-in-a-multi-page-xamarinforms-applicationquickstartsmulti-pagemd"></a>[Inicio rápido: Realizar la navegación en una aplicación de varias página de Xamarin.Forms](quickstarts/multi-page.md)
 
-Siga esta guía de inicio rápido para activar la aplicación una sola página, capaz de almacenar una sola nota, en una aplicación de varias página, capaz de almacenar varias notas.
+Siga esta guía de inicio rápido para activar la aplicación una sola página, capaz de almacenar una sola nota, en una aplicación de varias página, capaz de almacenar varias notas.                                                                             
 
 ## <a name="quickstart-store-data-in-a-local-sqlitenet-databasequickstartsdatabasemd"></a>[Inicio rápido: Data Store en una base de datos local de SQLite.NET](quickstarts/database.md)
 
